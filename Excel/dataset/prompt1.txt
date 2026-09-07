@@ -1,0 +1,25 @@
+1. Customer Feedback / Business Classification
+
+You could add a new column T = Business Performance:
+
+=AI("Classify this order as High Profit, Low Profit, or Loss based on the profit value",R2)
+2. Profitability Analysis
+=AI("Explain whether this order is profitable or not based on the profit and profit margin",R2:S2)
+
+Example output:
+
+Highly profitable order with an 86.26% profit margin.
+
+3. Customer Segment Recommendation
+=AI("Based on this customer's segment, provide a one-word customer type: New, Regular, or Premium",E2)
+4. Product Category Analysis
+=AI("Give a brief business insight about this product category",F2)
+
+For example:
+
+Electronics is generally a high-value product category.
+
+5. Order Status Explanation
+=AI("Explain what this order status means from a business perspective",M2)
+6. Customer Name → Greeting
+=AI("Create a short professional greeting for this customer",C2)

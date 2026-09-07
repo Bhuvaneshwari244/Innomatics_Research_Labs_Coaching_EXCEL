@@ -1,0 +1,6 @@
+Using the data in Sheet1, create:
+
+1. A new sheet named "Pivot Tables" with relevant Pivot Tables for Sales, Profit, Orders, Category, and Order Status.
+2. A new sheet named "Dashboard" with KPI cards for Total Sales, Total Profit, Total Orders, and Avg Profit Margin, plus charts for monthly Sales & Profit trend, Sales by Category, and Orders by Status.
+
+Use a clean professional layout similar to an E-Commerce Performance Dashboard Please Add CSS and Add Slicers Kip's Need Interactive Dashboard. Do not modify Sheet1.
